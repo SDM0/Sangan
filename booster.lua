@@ -109,7 +109,7 @@ SGN_MOD.structure_booster({
 SGN_MOD.structure_booster({
     key = "ghostgirls",
     joy_secret = {
-        properties = { { monster_archetypes = { "GhostGirls" } } },
+        properties = { { rarity = 4, is_tuner = true } },
         extra_keys = {},
         center = "j_joy_yokai_ash"
     }
