@@ -1,0 +1,14 @@
+{
+  "id": "sangan",
+  "name": "Sangan",
+  "display_name": "Sangan",
+  "author": ["SDM_0"],
+  "description": "Adds a Structure Pack for nh6574's modern Yu-Gi-Oh! mod JoyousSpring.",
+  "prefix": "sgn",
+  "main_file": "main.lua",
+  "priority": 1,
+  "badge_colour": "F6AA27",
+  "version": "1.0.0",
+  "dependencies": ["Steamodded (>=1.0.0~BETA-1814a)", "Lovely (>=0.9.0)", "JoyousSpring (>=1.0.0)"],
+  "icon_path": "modicon.png"
+}
